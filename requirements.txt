@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+audiocraft
+torch
+torchaudio
+transformers
+accelerate
